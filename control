@@ -3,7 +3,7 @@ Name: DisableThings
 Depends: mobilesubstrate
 Version: 1.0.0
 Architecture: iphoneos-arm
-Description: Disables horizontal Scrolling and swipe to Camera/Today on lockscreen
+Description: Disables Things
 Maintainer: aliencillo <correoalien8@gmail.com>
 Author: aliencillo <correoalien8@gmail.com>
 Section: Tweaks

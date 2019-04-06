@@ -1,10 +1,10 @@
 # DisableThings
-Disables horizontal Scrolling and swipe to Camera/Today on lockscreen
+Disables Things
 
 ## Supported Versions
-iOS 11
-iOS 12 
+iOS 11, iOS 12 
 
 ## Credits
-aliencillo
-sinfool flex patches
+aliencillo,
+sinfool flex patches,
+Justin Proulx
