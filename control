@@ -3,7 +3,7 @@ Name: DisableThings
 Depends: mobilesubstrate
 Version: 1.0.0
 Architecture: iphoneos-arm
-Description: Disables Things
+Description: Disables Things, by now LS Horizontal Scrolling, Camera, Today view, Page Dots and unlock text
 Maintainer: aliencillo <correoalien8@gmail.com>
 Author: aliencillo <correoalien8@gmail.com>
 Section: Tweaks
