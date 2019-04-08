@@ -1,7 +1,7 @@
 Package: pro.aliencillo.disablethings
 Name: DisableThings
 Depends: mobilesubstrate
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Disables Things, by now LS Horizontal Scrolling, Camera, Today view, Page Dots and unlock text
 Maintainer: aliencillo <correoalien8@gmail.com>

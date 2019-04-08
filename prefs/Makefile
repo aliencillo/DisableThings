@@ -6,7 +6,7 @@ ARCHS = arm64
 include $(THEOS)/makefiles/common.mk
 
 BUNDLE_NAME = DisableThingsPrefs
-DisableThingsPrefs_FILES = CHSRootListController.m
+DisableThingsPrefs_FILES = DTRootListController.m
 DisableThingsPrefs_INSTALL_PATH = /Library/PreferenceBundles
 DisableThingsPrefs_FRAMEWORKS = UIKit
 DisableThingsPrefs_PRIVATE_FRAMEWORKS = Preferences

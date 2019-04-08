@@ -1,6 +1,6 @@
-#include "CHSRootListController.h"
+#include "DTRootListController.h"
 
-@implementation CHSRootListController
+@implementation DTRootListController
 
 - (NSArray *)specifiers {
 	if (!_specifiers) {
